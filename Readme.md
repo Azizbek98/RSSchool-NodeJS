@@ -1,4 +1,4 @@
-# Movix React Typescript
+# RSSchool NodeJS Course
 
 ![Banner Image](./banner.png "Banner Image")
 
