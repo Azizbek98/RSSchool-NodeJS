@@ -1,0 +1,19 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azizbek98/RSSchool-NodeJS.git"
+  },
+  "author": "Azizbek Samatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azizbek98/RSSchool-NodeJS/issues"
+  },
+}
