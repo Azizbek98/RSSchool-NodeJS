@@ -9,12 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AV-Shell/nodejs_2022q4_file_manager.git"
+    "url": "git+https://github.com/Azizbek98/RSSchool-NodeJS.git"
   },
   "author": "Azizbek Samatov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AV-Shell/nodejs_2022q4_file_manager/issues"
+    "url": "https://github.com/Azizbek98/RSSchool-NodeJS/issues"
   },
-  "homepage": "https://github.com/AV-Shell/nodejs_2022q4_file_manager#readme"
 }
